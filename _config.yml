@@ -1,0 +1,28 @@
+name: Messyhen
+favicon: null
+layout_spectrum: 0.7349713039584458
+typography_spectrum: 0.3437298161443323
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9910368577111512
+  lightness: 0.147412151331082
+  saturation: 0.714739759452641
+  rhythmicContrast: 0.4291704522911459
+purpose: []
